@@ -17,6 +17,7 @@ def compare_string(string1, string2):
         return -1
     else:
         return "".join(l1)
+        print count
 
 
 def check(binary):
